@@ -6,7 +6,7 @@ The workflow consisted of a pre-registered design, power
 analysis, randomisation checks, hypothesis testing with effect sizes and
 a report of an inconclusive result.
 
-![Effect size with confidence interval](effect_size_chart.png)
+![Effect size with confidence interval](effect_size_plot.png)
 
 ## The question
 Is the new controlled hang protocol better at building finger strength than the traditional method over 8 weeks.
